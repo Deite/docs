@@ -15,7 +15,7 @@ name: 智慧校园简介
 **2. 我们的规划**
 ---
 
- ![image_1av9chvsr1cb2p7t1gs21s0iic59.png-79.8kB][2]
+  - ![image_1av9chvsr1cb2p7t1gs21s0iic59.png-79.8kB][2]
  
  
 
